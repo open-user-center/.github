@@ -1,5 +1,14 @@
-## Hi there 👋
+## 这是一个用户中心的简单实现 👋
+### 需求分析
+- 1⃣️ 登录注册 
+- 2⃣️ 用户管理 (仅管理员可见) 对用户的查询或者修改
+- 3⃣️ 用户校验（仅星球用户）
 
+### 技术选型
+- 前端：三件套 + React + 组件库 Ant Design + Umi + Ant Design Pro
+- 后端：Golang + Kratos + Gorm + mysql
+- 部署：服务器 / 容器（平台）
+ 
 <!--
 
 **Here are some ideas to get you started:**
