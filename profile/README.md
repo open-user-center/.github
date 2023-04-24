@@ -6,7 +6,7 @@
 
 ### 技术选型
 - 前端：三件套 + React + 组件库 Ant Design + Umi + Ant Design Pro
-- 后端：Golang + Kratos + Gorm + mysql
+- 后端：Golang + Kratos + Gorm + Mysql + Redis + Wire + Grpc
 - 部署：服务器 / 容器（平台）
  
 <!--
