@@ -8,7 +8,10 @@
 - 前端：三件套 + React + 组件库 Ant Design + Umi + Ant Design Pro
 - 后端：Golang + Kratos + Gorm + Mysql + Redis + Wire + Grpc
 - 部署：服务器 / 容器（平台）
- 
+
+### 作品展示
+#### 首页
+![image](。/images/首页.png)
 <!--
 
 **Here are some ideas to get you started:**
