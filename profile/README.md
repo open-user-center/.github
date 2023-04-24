@@ -12,6 +12,8 @@
 ### 作品展示
 #### 首页
 ![image](../main/images/首页.png)
+#### 管理页
+![image](../main/images/管理页.png)
 <!--
 
 **Here are some ideas to get you started:**
