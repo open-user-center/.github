@@ -11,7 +11,7 @@
 
 ### 作品展示
 #### 首页
-![image](。/images/首页.png)
+![image](../images/首页.png)
 <!--
 
 **Here are some ideas to get you started:**
